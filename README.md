@@ -8,7 +8,7 @@ In fixed mindset, intelligent and talent are seen as fixed traits, suggesting th
 
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points.
 
-### Growth Mindset examples.
+### Growth Mindset :handshake:	
 
 - Its never too late to learn.
 - It's okay if I fail, atleast I learned something.
