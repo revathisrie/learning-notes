@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/revathisrie/learning-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Growth mindset seek out challenges and view failure as a cahnce to learn and build upon their abilities. With time and effort, their intelligence and knowledge can grow because they recognise that their effort influence success, so they spent more time practicing or learning, which leads to higher levels of achievement.
 
 ### Markdown
 
@@ -15,23 +13,14 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Its never too late to learn.
+- It's okay if I fail, atleast I learned something.
+- I can improve at soomething if I try.
+- What can I do better next time to make this work?
+- As long as I have determination, I can do anything.
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/revathisrie/learning-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
