@@ -16,5 +16,3 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 - What can I do better next time to make this work?
 - As long as I have determination, I can do anything.
 
-**Bold** and _Italic_ and `Code` text
-
