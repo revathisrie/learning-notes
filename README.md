@@ -1,3 +1,5 @@
+i am Revathi.
+
 ## What is Growth Mindset
 
 Growth mindset seek out challenges and view failure as a chance to learn and build upon their abilities. With time and effort, their intelligence and knowledge can grow because they recognise that their effort influence success, so they spent more time practicing or learning, which leads to higher levels of achievement.
