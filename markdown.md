@@ -5,4 +5,4 @@ I will take my reading-notes here
 - h3      - ###
 - bold    -> ***Bold***
 - Italic  -  *Italic*
-- smiling emoji - :smile:
+- smiling emoji - 
