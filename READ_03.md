@@ -5,7 +5,7 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
 ## Setting up a Repository
 **Importing**: 
   * Switch to the target project’s directory 
-               $ cd test
+  *  * $ cd test
   * Use the git init command
                $ git init
   * To start tracking these repository files, perform an initial commit by typing the following.
