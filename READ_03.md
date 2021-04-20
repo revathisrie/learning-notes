@@ -13,17 +13,21 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
        *   $ git add LICENSE
        *   $ git commit -m “any message here”
 
-**Cloning**
+**Cloning:**
 You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
  *  $ git clone https://github.com/test
 To clone a repository into a directory with another name of your choosing, use the following command format:
  *  $ git clone https://github.com/test mydirectory
 The command above makes a copy of the target repository in a directory named “mydirectory.”
 
-**Local Repository Structure**
+**Local Repository Structure:**
 It has 3 components:
  * Working Directory: The actual files reside here.
  * Index: The area used for staging
  * Head: Points to the most recent commit
 
+##ACP Process
+* $ git add filename
+* $ git commit -m “made change x,y,z”
+* $ git push origin master
 
