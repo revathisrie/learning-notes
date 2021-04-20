@@ -6,8 +6,8 @@ This Markdown cheat sheet provides a quick overview of all Markdown Syntax Eleme
 Element | Markdown Syntax
 ------  | -----------------
 Heading | #H1
-         | #H2
-         | #H3
+         | ##H2
+         | ###H3
 -------  |  --------------         
 Bold    | **bold text**
 Italic | *italic text*
