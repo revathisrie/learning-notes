@@ -12,3 +12,7 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
        *   $ git add *.c
        *   $ git add LICENSE
        *   $ git commit -m “any message here”
+
+**Cloning**
+You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
+ *  $ git clone https://github.com/test
