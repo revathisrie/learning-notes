@@ -7,8 +7,8 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
   * Switch to the target project’s directory 
   *  * $ cd test
   * Use the git init command
-               $ git init
+  *   *   $ git init
   * To start tracking these repository files, perform an initial commit by typing the following.
-               $ git add *.c
-               $ git add LICENSE
-               $ git commit -m “any message here”
+       *        $ git add *.c
+        *       $ git add LICENSE
+         *      $ git commit -m “any message here”
