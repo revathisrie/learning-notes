@@ -4,6 +4,11 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
 
 ## Setting up a Repository
 **Importing**: 
-  * _Switch to the target project’s directory
-  * _Use the git init command
-  * _To start tracking these repository files, perform an initial commit by typing the following.
+  * Switch to the target project’s directory 
+               * $ cd test
+  * Use the git init command
+               * $ git init
+  * To start tracking these repository files, perform an initial commit by typing the following.
+               * $ git add *.c
+               * $ git add LICENSE
+               * $ git commit -m “any message here”
