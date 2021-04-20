@@ -1,8 +1,6 @@
 # What is Markdown?
 Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
 
-This Markdown cheat sheet provides a quick overview of all Markdown Syntax Elements.
-
 ### Heading
 
 # H1
@@ -46,10 +44,6 @@ This Markdown cheat sheet provides a quick overview of all Markdown Syntax Eleme
 [google](https://www.google.com/)
 
 
-## Extended Syntax
-
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
-
 ### Table
 
 | Syntax | Description |
@@ -61,9 +55,8 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Revathi",
+  "lastName": "Mylavarapu",
 }
 ```
 
