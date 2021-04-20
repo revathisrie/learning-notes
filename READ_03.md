@@ -26,7 +26,7 @@ It has 3 components:
  * Index: The area used for staging
  * Head: Points to the most recent commit
 
-## ACP Process
+### ACP Process
 * $ git add filename
 * $ git commit -m “made change x,y,z”
 * $ git push origin master
