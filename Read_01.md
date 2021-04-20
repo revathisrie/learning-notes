@@ -43,9 +43,7 @@ This Markdown cheat sheet provides a quick overview of all Markdown Syntax Eleme
 
 ### Link
 
-[title](https://www.example.com)
+[google](https://www.google.com/)
 
-### Image
 
-![alt text](image.jpg)
  
