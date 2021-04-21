@@ -12,6 +12,12 @@ You can use Markdown most places around GitHub:
  * Comments in Issues and Pull Requests
  * Files with the .md or .markdown extension
 
+## Syntax guide
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
 
 
 [--->Back](README.md)
