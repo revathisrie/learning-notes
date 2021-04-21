@@ -16,4 +16,5 @@ An HTML tag is a special word or letter surrounded by angle brackets, < and >.
 8. `<img>` — An image
 9. `<div> … </div>` — A block-level container for content
 
+
 [<---Back](README.md)

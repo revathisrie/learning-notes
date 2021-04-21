@@ -25,10 +25,7 @@ completion, it has themes and extensions.
 * ls -la Displays all files
 
 
-
-
-
-[--->Back](README.md)
+[<---Back](README.md)
 
 
     

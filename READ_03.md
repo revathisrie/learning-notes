@@ -32,6 +32,4 @@ It has 3 components:
 * $ git push origin master
 
 
-
-
-[--->Back](README.md)
+[<---Back](README.md)
