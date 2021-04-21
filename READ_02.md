@@ -11,6 +11,20 @@ completion, as well as word completion and function completion.
 * **Sublime Text**: It is fast and responsive while being extensible as well. It has syntax highlighting, it has code
 completion, it has themes and extensions.
 
+## Common Commands on Terminal:
+* ~ Indicates the home directory
+* pwd Print working directory (pwd) displays the path name of the current directory
+* cd Change Directory
+* mkdir Make a new directory / file folder
+* touch Make a new file
+* .. Go up one level / directory
+* cd ~ Return to home directory
+* clear Clears information on the display screen to provide a blank slate
+* ls List provides a list of all files with a directory
+* ls -l Displays a long list vertically with file permissions, date modified and file name
+* ls -la Displays all files
+
+
 
 
 
