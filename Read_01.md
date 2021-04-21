@@ -12,11 +12,16 @@ You can use Markdown most places around GitHub:
  * Comments in Issues and Pull Requests
  * Files with the .md or .markdown extension
 
-## Syntax guide
+## Markdown Syntax
+* Create Emojis using the :[Enter Emoji Code]:
+* Bold: \*\*Bold\*\* or \_Bold_
+* Italic: \*italic* or \-italic-
+* strikethrough: \~~strikethrough~~
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+
+## GitHub Pages
+* GitHub Pages takes your basic codes (in HTML, CSS, or JavaScript) from GitHub and turns into an actual website.
+* To get started, [Click Here](https://pages.github.com/)
 
 
 
