@@ -8,11 +8,11 @@ Few of the things we can do with Markdown
 * Creating lists 
 
 You can use Markdown most places around GitHub:
- * Gists
- * Comments in Issues and Pull Requests
- * Files with the .md or .markdown extension
+* Gists
+* Comments in Issues and Pull Requests
+* Files with the .md or .markdown extension
 
-## Markdown Syntax
+### Markdown Syntax
 * Create Emojis using the :[Enter Emoji Code]:
 * Bold: \*\*Bold\*\* or \_Bold_
 * Italic: \*italic* or \-italic-
