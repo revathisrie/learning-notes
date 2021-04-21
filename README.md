@@ -12,12 +12,12 @@ According to me Growth mindset seek out challenges and *__view failure as a chan
 3. As long as I have __determination, I can do anything__.
 
 ### Table of Contents:
-- [Markdown](Read_01.md)
-- [Installfest](READ_02.md)
-- [Revision](READ_03.md)
-- [HTML]()
-- [CSS]()
-- [JavaScript]()
-- [JS Functions]()
-- [JS Loops]()
+- [Reading_1](Read_01.md)
+- [Reading_2](READ_02.md)
+- [Reading_3](READ_03.md)
+- [Reading_4]()
+- [Reading_5]()
+- [Reading_6]()
+- [Reading_7]()
+- [Reading_8]()
 
