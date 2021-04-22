@@ -29,12 +29,12 @@ This rule indicates all `<h1>,<h2>,<h3>` elements should be shown in the Arial t
  * href
  * type
  * rel
-Ex: `<link href="css/styles.css" type="text/css"
+     * Ex: `<link href="css/styles.css" type="text/css"
        rel="stylesheet"/>`
 ## Internal CSS
   * `<style>`
-Ex: `<style type="text/css">`
-It usually sits inside <head> element of the page.
+      * Ex: `<style type="text/css">`
+It usually sits inside `<head>` element of the page.
 
 ## CSS Selectors:
 * Universal Selector: `* {}` targets all elements on the page
