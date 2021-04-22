@@ -6,7 +6,7 @@ JavaScript is a text-based programming language used both on the client-side and
 
 - **JavaScript is Case Sensitive.**
 
-## Linking JavaScript File from HTMl Page
+## Linking JavaScript File from HTML Page
   * `<script src="app2.js"></script>`
 
 ## Variables:
@@ -17,10 +17,8 @@ JavaScript is a text-based programming language used both on the client-side and
 ## Including Comments
 Comments are important because they help other people understand what is going on in your code or remind you if you forgot something yourself. Keep in mind that they have to be marked properly so the browser won’t try to execute them.
 
-In JavaScript you have two different options:
-
-Single-line comments — To include a comment that is limited to a single line, precede it with //
-Multi-line comments — In case you want to write longer comments between several lines, wrap it in /* and */ to avoid it from being executed
+* Single-line comments — To include a comment that is limited to a single line, precede it with //
+* Multi-line comments — In case you want to write longer comments between several lines, wrap it in /* and */ to avoid it from being executed
 
 ## Data Types:
 Variables can contain different types of values and data types. You use = to assign them:
