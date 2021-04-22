@@ -22,29 +22,29 @@ h1, h2, h3{
 }
   * color - property
   * value - yellow
-This rule indicates all <h1>,<h2>,<h3> elements should be shown in the Arial typeface in a yellow color. 
+This rule indicates all `<h1>,<h2>,<h3>` elements should be shown in the Arial typeface in a yellow color. 
 
 ## External CSS:
- * <link>
+ * `<link>`
  * href
  * type
  * rel
-Ex: <link href="css/styles.css" type="text/css"
-       rel="stylesheet"/>
+Ex: `<link href="css/styles.css" type="text/css"
+       rel="stylesheet"/>`
 ## Internal CSS
-  * <style>
-Ex: <style type="text/css">
+  * `<style>`
+Ex: `<style type="text/css">`
 It usually sits inside <head> element of the page.
 
 ## CSS Selectors:
 * Universal Selector: `* {}` targets all elements on the page
-* Type Selector: `h1, h2, h3, {}` targets <h1>, <h2>, <h3> elements.
+* Type Selector: `h1, h2, h3, {}` targets `<h1>, <h2>, <h3>` elements.
 * Class Selector: `.note {}` targets any element whose id attribute has a value of note. 
 * ID selector: `#introduction {}` targets the element whose id attribute has a value of introduction.
-* Child Selector: `li>a {}` targets any <a> element that are children of <li> element. 
-* Descendant Selector: `li a {}` targets any <a> element that sits inside of <li> element. . 
-* Adjacent Sibling Selector: `h2 + p {}` targets the first <p> element after any <h1> . 
-* General Sibling Selector: `h2~p {}` If you had two <p> elements that are siblings of an <h1> element this rule would apply to both.
+* Child Selector: `li>a {}` targets any `<a>` element that are children of `<li>` element. 
+* Descendant Selector: `li a {}` targets any `<a>` element that sits inside of `<li>` element. . 
+* Adjacent Sibling Selector: `h2 + p {}` targets the first `<p>` element after any `<h1>` . 
+* General Sibling Selector: `h2~p {}` If you had two `<p>` elements that are siblings of an `<h1>` element this rule would apply to both.
 
 ## Cascade Rules:
 * LAST RULE: If the two selectors are identical, the second will take precedence.
