@@ -23,13 +23,13 @@ Comments are important because they help other people understand what is going o
 ## Data Types:
 Variables can contain different types of values and data types. You use = to assign them:
 
-Numbers — var age = 23
-Variables — var x
-Text (strings) — var a = "init"
-Operations — var b = 1 + 2 + 3
-True or false statements — var c = true
-Constant numbers — const PI = 3.14
-Objects — var name = {firstName:"Revathi", lastName:"Mylavarapu"}
+* Numbers — var age = 23
+* Variables — var x
+* Text (strings) — var a = "init"
+* Operations — var b = 1 + 2 + 3
+* True or false statements — var c = true
+* Constant numbers — const PI = 3.14
+* Objects — var name = {firstName:"Revathi", lastName:"Mylavarapu"}
 
 ## Objects
 Objects are certain kinds of variables. They are variables that can have their own values and methods. The latter are actions that you can perform on objects.
