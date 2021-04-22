@@ -17,8 +17,9 @@ According to me Growth mindset seek out challenges and *__view failure as a chan
 - [Reading_2](READ_02.md)
 - [Reading_3](READ_03.md)
 - [Reading_4](READ_04.md)
-- [Reading_5]()
-- [Reading_6]()
+- [Reading_5](READ_05.md)
+- [Reading_6a](READ_06a.md)
+- [Reading_6b](READ_06b.md)
 - [Reading_7]()
 - [Reading_8]()
 
