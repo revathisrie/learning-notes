@@ -24,19 +24,19 @@ According to me Growth mindset seek out challenges and *__view failure as a chan
 - [Reading 102.8](reading-102-8.md) : Operators and Loops
 
 ### Code 201:
--[Reading 201.1](reading-201-1.md) : HTML and JavaScript
--[Reading 201.2](reading-201-2.md)
--[Reading 201.3](reading-201-3.md)
--[Reading 201.4](reading-201-4.md)
--[Reading 201.5](reading-201-5.md)
--[Reading 201.6](reading-201-6.md)
--[Reading 201.7](reading-201-7.md)
--[Reading 201.8](reading-201-8.md)
--[Reading 201.9](reading-201-9.md)
--[Reading 201.10](reading-201-10.md)
--[Reading 201.11](reading-201-11.md)
--[Reading 201.12](reading-201-12.md)
--[Reading 201.13](reading-201-13.md)
--[Reading 201.14](reading-201-14.md)
--[Reading 201.15](reading-201-15.md)
+- [Reading 201.1](reading-201-1.md) : HTML and JavaScript
+- [Reading 201.2](reading-201-2.md)
+- [Reading 201.3](reading-201-3.md)
+- [Reading 201.4](reading-201-4.md)
+- [Reading 201.5](reading-201-5.md)
+- [Reading 201.6](reading-201-6.md)
+- [Reading 201.7](reading-201-7.md)
+- [Reading 201.8](reading-201-8.md)
+- [Reading 201.9](reading-201-9.md)
+- [Reading 201.10](reading-201-10.md)
+- [Reading 201.11](reading-201-11.md)
+- [Reading 201.12](reading-201-12.md)
+- [Reading 201.13](reading-201-13.md)
+- [Reading 201.14](reading-201-14.md)
+- [Reading 201.15](reading-201-15.md)
 
