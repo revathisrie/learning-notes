@@ -1,27 +1,27 @@
 ## Duckett HTML
 ## Chapter 2: “Text”(pp.40-61)
 
-- <h1> - has 1-6 level of headings
-- <p> - to create paragraph
-- <b> - characters appear bold
-- <i> - characters appear italic
-- <sup> - used to contain characters that should be superscript
-- <sub> - used to contain characters that should be subscript
-- <br /> - creates a break
-- <hr /> - creates break between themjes and can add a horizontal rule between sections.
+- `<h1>` - has 1-6 level of headings
+- `<p>` - to create paragraph
+- `<b>` - characters appear bold
+- `<i>` - characters appear italic
+- `<sup>` - used to contain characters that should be superscript
+- `<sub>` - used to contain characters that should be subscript
+- `<br />` - creates a break
+- `<hr />` - creates break between themjes and can add a horizontal rule between sections.
 
 **Semantic Markup** are some elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages
 
-- <strong> - displays in bold.
-- <em> - displays in italic
-- <blockquote>  - It is used for longer quotes
-- <q> - used for shorter quotes
-- <abbr> - used to define abbreviation.
-- <cite> - used to indicate where citation is from and text becomes italic
-- <dfn> - defining instance of a new term. Some browsers show these elements in italics
-- <address> - contain contact details or email addess. ome browsers show these elements in italics
-- <ins> and <del> - show content that has been inserted into a document and deleted from a document and usually has a line through it
-- <s> - no longer accurate and displayed with a line through center.
+- `<strong>` - displays in bold.
+- `<em>` - displays in italic
+- `<blockquote>`  - It is used for longer quotes
+- `<q>` - used for shorter quotes
+- `<abbr>` - used to define abbreviation.
+- `<cite>` - used to indicate where citation is from and text becomes italic
+- `<dfn>` - defining instance of a new term. Some browsers show these elements in italics
+- `<address>` - contain contact details or email addess. ome browsers show these elements in italics
+- `<ins>` and `<del>` - show content that has been inserted into a document and deleted from a document and usually has a line through it
+- `<s>` - no longer accurate and displayed with a line through center.
 
 
 ## Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
