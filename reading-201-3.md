@@ -34,7 +34,8 @@ Every box has 3 properties:
 ### SWITCH Statements
 It allows you to compare a value against possible outcomes and also provides a default option if none match.
 
-```switch(level) {
+```
+switch(level) {
     case 'One':
     title = 'Level 1';
     break;
@@ -50,7 +51,8 @@ It allows you to compare a value against possible outcomes and also provides a d
     default:
     title = 'Test';
     break;
-}```
+}
+```
 
 
 [<---Back](README.md)
